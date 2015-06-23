@@ -2,11 +2,10 @@
 
     Sub Main()
 
-
+         Console.WriteLine("hola mundo prueba");
 
 
 
     End Sub
 
 End Module
-  Console.WriteLine("hola mundo");
